@@ -1,1 +1,3 @@
 # html-css-javascript-mini-projects
+
+This repository consists of html css mini projects which i do while learning...
